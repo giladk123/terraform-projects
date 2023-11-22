@@ -46,7 +46,7 @@
             "source_port_range": "*",
             "destination_address_prefix": "*",
             "destination_port_range": "443"
-          }
+          },
           {
             "name": "Allow_HTTPS_8443",
             "priority": 102,
