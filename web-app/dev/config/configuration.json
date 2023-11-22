@@ -1,11 +1,11 @@
 {
-    "resource_group": "hub-rg",
+    "resource_group": "hub-dev-rg",
     "location": "westeurope",
-    "vnet_name": "hub-vnet",
+    "vnet_name": "hub-dev-vnet",
     "address_space": ["10.0.0.0/16"],
     "subnets": [
       {
-        "name": "subnet1",
+        "name": "subnet-dev-1",
         "address_prefix": "10.0.1.0/24",
         "network_interface": {
           "name": "nic-subnet1",
@@ -13,7 +13,7 @@
         }
       },
       {
-        "name": "subnet2",
+        "name": "subnet-dev-2",
         "address_prefix": "10.0.2.0/24",
         "network_interface": {
           "name": "nic-subnet2",
