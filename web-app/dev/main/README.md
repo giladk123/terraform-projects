@@ -27,6 +27,6 @@ No inputs.
 
 | Name | Description |
 |------|-------------|
-| <a name="output_network_interface_ip"></a> [network\_interface\_ip](#output\_network\_interface\_ip) | n/a |
-| <a name="output_subnet_ids"></a> [subnet\_ids](#output\_subnet\_ids) | n/a |
-| <a name="output_vnet_id"></a> [vnet\_id](#output\_vnet\_id) | n/a |
+| <a name="output_network_interface_ip"></a> [network\_interface\_ip](#output\_network\_interface\_ip) | List of nic ip's |
+| <a name="output_subnet_ids"></a> [subnet\_ids](#output\_subnet\_ids) | List of subnet id's |
+| <a name="output_vnet_id"></a> [vnet\_id](#output\_vnet\_id) | List of vnet id |
